@@ -1,6 +1,7 @@
 # Corgi
-folling the very good ***How to Start with Qwik*** tutorial from Smoljames
-[LEARN QWIK - The World's Fastest JavaScript Framework | E-comm Store Project | Qwik + TailwindCSS](https://www.youtube.com/watch?v=6w1987dVHVY)
+following the very good ***How to Start with Qwik*** tutorial from Smoljames
+
+[LEARN QWIK - E-comm Store Project | Qwik + TailwindCSS](https://www.youtube.com/watch?v=6w1987dVHVY)
 
 #### Corgito 
 From the youtube video for the complete Corgi-Store with shopping basket.
@@ -10,6 +11,7 @@ Deals with a global store (state) wich is accessible from various components.
 
 #### Design
 Smoljames again:
+
 [Advanced TailwindCSS Techniques You Have To Know?! [8 concepts]](https://www.youtube.com/watch?v=LHYqKEtD-Co)
 
 #### Events
