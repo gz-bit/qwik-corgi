@@ -51,7 +51,7 @@ export const Header = component$(() => {
         </div>
 
         <div class="group relative flex">
-          <a title="Events" href="/events"><i class="fa-solid fa-bolt pl-8"></i></a>
+          <a href="/events"><i class="fa-solid fa-bolt pl-8"></i></a>
           <span class="absolute top-20 scale-0 rounded bg-gray-800 p-2 text-2xl text-white group-hover:scale-100">Events</span>
         </div>
 
@@ -59,8 +59,18 @@ export const Header = component$(() => {
           <a title="Tooltip" href="/tooltip"><i class="fa-solid fa-message pl-8"></i></a>
           <span class="absolute top-20 scale-0 rounded bg-gray-800 p-2 text-2xl text-white group-hover:scale-100">Tooltip</span>
         </div>
-      </div>
 
+        <div class="group relative flex">
+          <a href="/prisma"><i class="fa-solid fa-database pl-8"></i></a>
+          <span class="absolute top-20 scale-0 rounded bg-gray-800 p-2 text-2xl text-white group-hover:scale-100">Prisma</span>
+        </div>
+
+        <div class="group relative flex">
+          <a href="/loader"><i class="fa-solid fa-download pl-8"></i></a>
+          <span class="absolute top-20 scale-0 rounded bg-gray-800 p-2 text-2xl text-white group-hover:scale-100">Loader</span>
+        </div>
+      </div>
+      
       <div class="group relative flex">
       <div class="flex flex-row" onClick$={() => state.showBasket = true}>
         <i class="fa-solid fa-cart-shopping"></i>

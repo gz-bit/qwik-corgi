@@ -21,8 +21,9 @@ Event handling in Qwik.
 Since I will not remember the meaning of the icons, I need tootips.
 Includes &lt;Slot /&gt; for managing the component's JSXChildren 
 
-***Now back over to original Qwik speak:*** 
+#### [Todo](TODO.md)
 
+***Now back over to original Qwik speak:*** 
 ## Qwik City App ⚡️
 
 - [Qwik Docs](https://qwik.builder.io/)
